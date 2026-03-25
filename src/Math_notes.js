@@ -1,4 +1,5 @@
 "use strict";
+// ciaooooooo mi chiamo math.notes e sono un programma che esegue le operazioni matematiche inserite dall'utente
 const prompt = require("prompt-sync")();
 /**
  * variabile che contiene l'espressione inserita
