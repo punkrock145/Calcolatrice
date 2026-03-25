@@ -1,0 +1,18 @@
+{
+    "name": "math_notes",
+    "version": "1.0.0",
+    "description": "",
+    "main": "Math_notes.js",
+    "scripts": {
+        "doc": "jsdoc -c nome.json"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "jsdoc": "^4.0.5"
+    },
+    "dependencies": {
+        "prompt-sync": "^4.2.0"
+    }
+}
